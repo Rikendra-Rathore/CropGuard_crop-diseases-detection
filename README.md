@@ -17,6 +17,7 @@ CropGuard provides a simple web-based platform where users can upload crop leaf 
 
 The integrated chatbot further assists users by answering queries related to crop diseases and farming practices.
 
+
 👥 End Users
 
 Farmers
@@ -31,6 +32,7 @@ Agricultural Extension Workers
 
 Farming Communities
 
+
 ⚙️ Key Features
 
 🌿 Crop disease detection using machine learning
@@ -42,6 +44,7 @@ Farming Communities
 🌐 Simple and user-friendly web interface
 
 ⚡ Fast disease prediction and recommendations
+
 
 🛠️ Technology Used
 
@@ -57,6 +60,7 @@ Chatbot: NLP-based chatbot integration
 
 Framework: Flask / Web-based interface
 
+
 📊 System Workflow
 
 User uploads a crop leaf image.
@@ -71,6 +75,7 @@ Results and preventive recommendations are displayed.
 
 The chatbot answers additional user questions.
 
+
 🎯 Results
 
 Developed a working AI-based crop disease detection system.
@@ -82,6 +87,7 @@ Integrated chatbot support for user queries.
 Reduced time required for crop disease identification.
 
 Provided helpful recommendations for farmers.
+
 
 🔮 Future Scope
 

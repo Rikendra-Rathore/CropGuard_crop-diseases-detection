@@ -1,4 +1,4 @@
-<img width="1892" height="910" alt="Screenshot 2026-03-11 114209" src="https://github.com/user-attachments/assets/d4543f7a-79be-4e09-8ea4-9c8d4a11b1e2" /><img width="1892" height="910" alt="Screenshot 2026-03-11 114209" src="https://github.com/user-attachments/assets/6075fa35-6548-4296-a07f-2e3945486449" /><img width="1899" height="910" alt="Screenshot 2026-03-11 114138" src="https://github.com/user-attachments/assets/fdaaedab-88f4-4579-b698-12464e076b28" />🌱 CropGuard – AI Based Crop Disease Detection System
+CropGuard – AI Based Crop Disease Detection System
 📌 Overview
 
 CropGuard is an AI-powered crop disease detection system designed to help farmers identify plant diseases quickly and accurately. The system analyzes crop leaf images using machine learning techniques and predicts possible diseases.
@@ -96,6 +96,7 @@ Add multi-language chatbot support.
 Integrate IoT sensors for real-time crop monitoring.
 
 📷 Project Screenshots
+<img width="1900" height="657" alt="Screenshot 2026-03-11 114111" src="https://github.com/user-attachments/assets/ae6f83f2-08cd-4f24-8b0f-3d9a6120f1cc" />
 <img width="1899" height="910" alt="Screenshot 2026-03-11 114138" src="https://github.com/user-attachments/assets/3be04def-91fc-4065-80b1-71ffff659b30" />
 <img width="1906" height="911" alt="Screenshot 2026-03-11 114153" src="https://github.com/user-attachments/assets/c7123311-b2ad-4388-8d4a-8c8f8f3b51dc" />
 <img width="1892" height="910" alt="Screenshot 2026-03-11 114209" src="https://github.com/user-attachments/assets/6f1dea53-5cb4-4979-92d6-91390c0f9d8e" />
